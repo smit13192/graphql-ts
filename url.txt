@@ -1,0 +1,2 @@
+/api/auth/signIn
+/api/auth/signIn
